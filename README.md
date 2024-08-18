@@ -1,7 +1,7 @@
 # HexaPalette 🌈
 
 
-#### Palette Generator consists of a straightforward user interface where there is a
+#### HexaPalette consists of a straightforward user interface where there is a
 
 - List of **tints** and **shades** of color for a given input along with the page title *Color Generator*.
 - The default color in the input is set to **orange** `#f15025` when the page loads.
