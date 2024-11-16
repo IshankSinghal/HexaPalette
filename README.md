@@ -9,8 +9,3 @@
 - If a color is not found for the given input, it shows the **Error** through the red-colored border to the input box.
 - Colors are handled by the `values.js` and styles are handled by `index.css`
 - To run the project locally, clone the repo, `npm install` to install the dependencies, and `npm start` to start up the development server on default port 3000.
-
-#### Languages
-HTML, CSS, JavaScript, ECMAScript, React - Hooks ~ useState, useEffect
-
-![Screenshot 2022-08-06 191527](https://user-images.githubusercontent.com/80666992/183251586-20ad6736-a40c-4bbe-a37d-2b3c2ce12960.png)
